@@ -18,7 +18,7 @@ This project was developed using the following technologies and concepts:
 | :--- | :--- | :--- |
 | **Data Sources** | Raw CSV files sourced from **Kaggle**.
 | **ETL Process** |  Complex SQL queries. | Ensuring data quality and structuring it for analysis. |
-| **Data Quality** | Checking and handling of missing values, outliers, and formatting errors. | Adjust the data for standardization |
+| **Data Quality** | Checking and handling of missing values, outliers, and formatting errors. | Adjusting the data for standardization |
 | **Dimensional Model** | I used Data Warehouse concepts: Fact/Dimension Tables. | Structuring data for fast querying (BI/Analytic Queries). |
 | **Software** | SQL Server | The specific tool utilized. |
 
